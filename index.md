@@ -3,8 +3,11 @@ layout: default
 ---
 
 This is the index page.
-{{site}}
-----
+
+{{paginator}}
+
+-----
+
 {% for post in site.posts %}
     ## {{ post.title }}
     {{ post.content }}
