@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Dans le cadre de mon stage, j’ai pu participer à l’OpenBelgium. Il s’agit d’une conférence sur l’open data, et plus particulièrement l’open data en Belgique.
 
 L’open data consiste à laisser libre accès (liberté de consultation, de copie et d’utilisation par les humains & machines) certaines données. Par exemple, dans un but de transparence il peut être utile que n’importe quel citoyen puisse voir combien les membres du gouvernement sont payés. Quelqu’un qui veut baisser son empreinte écologique pourrait essayer de déplacer son usage électrique aux périodes ou production d’électricité est majoritairement faite par les énergies renouvelables.
