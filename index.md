@@ -10,8 +10,3 @@ La dernière mise à jour du site date du {{ site.lastupdate }}
 ## {{ post.title }}
 {{ post.content }}
 {% endfor %}
-
-{% for post in site.items %}
-## {{ post.title }}
-{{ post.content }}
-{% endfor %}
