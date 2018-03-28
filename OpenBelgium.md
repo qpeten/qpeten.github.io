@@ -1,5 +1,6 @@
 ---
 title: OpenBelgium
+excerpt_separator: ----
 ---
 
 Dans le cadre de mon stage, j’ai pu participer à l’OpenBelgium. Il s’agit d’une conférence sur l’open data, et plus particulièrement l’open data en Belgique.
@@ -12,3 +13,5 @@ J’ai aussi pu conclure, pour avoir déjà cherché ce genre de choses par moi-
 
 <!--more-->
 I'm here !
+----
+Lel
