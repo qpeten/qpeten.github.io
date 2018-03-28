@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: OpenBelgium
-layout: default
 ---
 
 Dans le cadre de mon stage, j’ai pu participer à l’OpenBelgium. Il s’agit d’une conférence sur l’open data, et plus particulièrement l’open data en Belgique.
