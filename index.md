@@ -7,6 +7,6 @@ La dernière mise à jour du site date du {{ site.lastupdate }}
 *****
 
 {% for post in site.posts %}
-## [{{ post.url }}]({{ post.title }})
-{{ post.exerpt }}
+## [{{ post.title }}]({{ post.url }})
+{{ post.excerpt }}
 {% endfor %}
