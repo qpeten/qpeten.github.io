@@ -7,8 +7,7 @@ This is the index page.
 *****
 
 {% for post in site.posts %}
-{{ post }}
 ## {{ post.title }}
-{{ post.content }}
+`{{ post.content }}`
 {% endfor %}
 
