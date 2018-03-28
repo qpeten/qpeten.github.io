@@ -6,8 +6,8 @@ La dernière mise à jour du site date du {{ site.lastupdate }}
 
 *****
 
-{% for post in site.pages %}
+{% for page in site.pages %}
 Sumthin'
-## [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
+## [{{ page.title }}]({{ page.url }})
+{{ page.excerpt }}
 {% endfor %}
