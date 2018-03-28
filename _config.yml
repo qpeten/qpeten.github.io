@@ -4,3 +4,4 @@ description: >
   Portfolio personnel de Quentin Peten
 lastupdate: 28 mars 2018
 excerpt_separator: <!--more-->
+include: ['_pages']
