@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is the index page.
+La dernière mise à jour du site date du {% last_modified_at %d %B %Y %}
 
 *****
 

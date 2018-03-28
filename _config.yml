@@ -2,3 +2,5 @@ theme: jekyll-theme-tactile
 title: Portfolio
 description: >
   Portfolio personnel de Quentin Peten
+gems:
+  - jekyll-last-modified-at
