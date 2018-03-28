@@ -2,7 +2,7 @@
 layout: default
 ---
 
-La dernière mise à jour du site date du {% last_modified_at %d %B %Y %}
+La dernière mise à jour du site date du {% last_modified_at %}
 
 *****
 
