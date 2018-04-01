@@ -13,6 +13,6 @@ J’ai beaucoup appris sur la domotique en général pendant ce projet. Ça a au
 
 <!--more-->
 ## Preuves
-![État des actuateurs]({{ "/assets/chauffage-OH-advanced.pn" | absolute_path }})
+![État des actuateurs]({{ "/assets/chauffage-OH-advanced.png" | absolute_path }})
 
 @TODO autres photos
