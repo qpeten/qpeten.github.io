@@ -14,5 +14,10 @@ J’ai beaucoup appris sur la domotique en général pendant ce projet. Ça a au
 <!--more-->
 ## Preuves
 ![État des actuateurs]({{ "/assets/chauffage-OH-advanced.png" | absolute_path }})
+L'interface avancée (Openhab) pour voir l'état des différents actuateurs et senseurs.
 
-@TODO autres photos
+![RPi chaudiere]({{ "/assets/chauffage-chaudiere.JPG" | absolute_path }})
+La raspberry et les relais qui contrôlent la chaudière (température de sortie eau chaude), la vanne 3 voies (température circuit sol), les pompes des 2 circuits, ainsi que le repassage à l'ancien thermostat en cas de dysfonctionnement de mon système.
+
+![RPi collecteur]({{ "assets/chauffage-collecteur.JPG" | absolute_path }})
+Un des trois collecteurs. Les electrovannes sont en rouge. J'ai un peu honte du câblage en le voyant maintenant…
