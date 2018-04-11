@@ -1,5 +1,5 @@
 ---
-title: Éclairage automatisé
+title: Louvain-li-nux
 onFrontPage: true
 ---
 
@@ -14,5 +14,6 @@ Du point de vue informatique, j’ai aussi eu pas mal d’occasion d’apprendre
 Je n'ai pas gardé une copie de mon contrat de location, mais vous pouvez trouver une copie d'une lettre de l'UCL addresse à mon nom, à l'addresse du Louvain-li-Nux.
 ![Lettre UCL]({{ "/assets/llnux-lettreucl.pn" | absolute_path }})
 
-Sur la page 'contact' du site web du Louvain-li-Nux, vous pouvez vérifier que l'adresse est bien la bonne.
-@@@TODO link LLnux
+En bas de chaque page du site web du [Louvain-li-Nux](https://louvainlinux.org), vous pouvez vérifier que l'adresse est bien la bonne.
+Je suis également tout à gauche de l'une des photos de la page d'acceuil, déguisé en Iron-man.
+

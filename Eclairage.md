@@ -2,6 +2,7 @@
 title: Éclairage automatisé
 onFrontPage: true
 ---
+
 Il y a pour le moment 3 éclairages automatisés automatisés dans la maison. Dans l’ordre, du plus simple au plus compliqué : l’éclairage extérieur, l’éclairage du garage et l’éclairage dans ma chambre.
 
 #### Lumière parking
@@ -29,5 +30,4 @@ Voici une photo de l'arduino et de l'alimentation de PC qui contrôle la barre d
 @TODO
 
 Et voici deux photos montrant la barre de led ainsi que le résultat final.
-@TODO
 @TODO
