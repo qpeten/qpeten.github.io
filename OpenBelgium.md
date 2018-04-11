@@ -12,5 +12,5 @@ Cette conférence a été pour moi l’occasion de découvrir toute une série d
 J’ai aussi pu conclure, pour avoir déjà cherché ce genre de choses par moi-même auparavant, que l’open data en Belgique n’en est qu’à ses débuts; et qu’une des choses qui en limite l’usage est simplement l’ignorance du public, qui n’est même pas au courant que ce genre de choses existent.
 
 <!--more-->
-## Preuves
+## Preuve
 ![Ticker OpenBelgium]({{ "/assets/TicketOpenBelgium.pdf" | absolute_url }})

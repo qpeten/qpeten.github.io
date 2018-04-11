@@ -11,5 +11,5 @@ J’ai personnellement organisé beaucoup d’activités, trois raids et partici
 Cela m’a fait apprendre la débrouillardise, l’organisation, comment gérer et motiver une équipe de jeunes et d’accompagnateurs. Étant administrateur, j’ai pu voir le fonctionnement d’une ASBL (et un peu du Moniteur Belge…)
 
 <!--more-->
-
+## Preuve
 Mon nom est noté sur la [page des membres effectifs de l'asbl](http://garcons.passeportasbl.be/presentation/membres-effectifs/)

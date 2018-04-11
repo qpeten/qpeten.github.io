@@ -11,8 +11,8 @@ Du point de vue informatique, j’ai aussi eu pas mal d’occasion d’apprendre
 
 <!--more-->
 ## Preuve
-Je n'ai pas gardé une copie de mon contrat de location, mais vous pouvez trouver une copie d'une lettre de l'UCL addresse à mon nom, à l'addresse du Louvain-li-Nux.
-![Lettre UCL]({{ "/assets/llnux-lettreucl.pn" | absolute_path }})
+Je n'ai pas gardé de copie de mon contrat de location, mais vous pouvez trouver une copie d'une lettre de l'UCL addressée à mon nom, à l'addresse du Louvain-li-Nux.
+![Lettre UCL]({{ "/assets/llnux-lettreucl.png" | absolute_path }})
 
 En bas de chaque page du site web du [Louvain-li-Nux](https://louvainlinux.org), vous pouvez vérifier que l'adresse est bien la bonne.
 Je suis également tout à gauche de l'une des photos de la page d'acceuil, déguisé en Iron-man.
