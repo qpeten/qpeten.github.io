@@ -20,7 +20,7 @@ Pour arriver à cela, j’utilise beaucoup d’inputs. Il y a tout d’abord deu
 ## Preuves
 D’après les chiffres, cela fonctionne assez bien. Voir graphique @@@.
 Je n'ai pas de chiffres pour l'éclairage extérieur.
-Voici une photo de la Raspberry Pi (en F1) et des relais (en bas, en vert. 2 pour les lumières garage & parking, et deux autres pour contrôler les balons d'eau chaude.)
+Voici une photo de la Raspberry Pi (en F1) et des relais (en bas, en vert. 2 pour les lumières garage & parking, et deux autres pour contrôler les balons d'eau chaude. Ne pas tenir compte de l'inscription manuscrite, nous avons retiré un des boilers.)
 ![RPi garage]({{ "assets/ecl-garage.JPG" | absolute_path }})
 
 Pour la lumière du garage, je peux affirmer que cela fonctionne assez bien. En date du 1er avril 2018, sur les 90 derniers jours on peut clairement voir qu'il n'y a eu aucun faux positif pendant les 8 jours pendant lesquels nous sommes partis en vacances. Sur les 30 derniers jours, la lumière a été allumée en tout 3% du temps. Elle a été allumée 167 fois, soit 5,6 fois par jour en moyenne.
