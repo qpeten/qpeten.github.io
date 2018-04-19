@@ -23,12 +23,12 @@ Je n'ai pas de chiffres pour l'éclairage extérieur.
 Voici une photo de la Raspberry Pi (en F1) et des relais (en bas, en vert. 2 pour les lumières garage & parking, et deux autres pour contrôler les balons d'eau chaude. Ne pas tenir compte de l'inscription manuscrite, nous avons retiré un des boilers.)
 ![RPi garage]({{ "assets/ecl-garage.JPG" | absolute_path }})
 
-Pour la lumière du garage, je peux affirmer que cela fonctionne assez bien. En date du 1er avril 2018, sur les 90 derniers jours on peut clairement voir qu'il n'y a eu aucun faux positif pendant les 8 jours pendant lesquels nous sommes partis en vacances. Sur les 30 derniers jours, la lumière a été allumée en tout 3% du temps. Elle a été allumée 167 fois, soit 5,6 fois par jour en moyenne.
-![Lumière garage sur 30 jours]({{ "/assets/garage-30j.png" | absolute_path }})
+Pour la lumière du garage, je peux affirmer que cela fonctionne assez bien. Voici un graphique en date du 1er avril 2018, qui couvre les 90 derniers jours. On peut clairement voir qu'il n'y a eu aucun faux positif durant les 8 jours pendant lesquels nous sommes partis en vacances. Sur les 30 derniers jours, la lumière a été allumée en tout 3% du temps. Elle a été allumée 167 fois, soit 5,6 fois par jour en moyenne.
+![Lumière garage sur 90 jours]({{ "/assets/garage-90j.png" | absolute_path }})
 
 Voici une photo de l'arduino et de l'alimentation de PC qui contrôle la barre de led dans ma chambre. Ce montage a été fait en sachant qu'il serait temporaire (quelques mois avant que je ne quitte la maison). Merci de ne pas juger la propreté du câblage !
 ![Alim et arduino]({{ "assets/ecl-alim.JPG" | absolute_path }})
 
-Et voici deux photos montrant la barre de led ainsi que le résultat final.
+Et voici deux photos montrant la barre de led ainsi que le résultat final. Les barres plus foncées horizontales et verticales sont dues au fait que les LEDs sont dimmés par PWM. C'est totatlement invisible à l'oeuil nu.
 ![Barre de led]({{ "assets/ecl-barreled.JPG" | absolute_path }})
 ![Résultat]({{ "assets/ecl-final.JPG" | absolute_path }})

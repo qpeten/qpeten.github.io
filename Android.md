@@ -9,8 +9,6 @@ Nous devions développer en équipe de quatre; j’ai eu l’occasion d’être 
 
 Lors de ce cours, nous avons également appris différentes manières de s'organiser pour réaliser un projet. Apprendre par exemple à penser en termes de résultats tangibles pour l'utilisateur final (concept d'user stories).
 
-@@@TODO
-
 <!--more-->
 ## Preuve
 ![Bitbucket]({{ "assets/lfsab1509-bitbucket.png" | absolute_path }})
