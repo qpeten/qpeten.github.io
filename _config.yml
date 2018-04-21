@@ -2,6 +2,6 @@ theme: jekyll-theme-tactile
 title: Portfolio
 description: >
   Portfolio personnel de Quentin Peten
-lastupdate: 11 avril 2018
+lastupdate: 21 avril 2018
 excerpt_separator: <!--more-->
 include: ['_pages']
