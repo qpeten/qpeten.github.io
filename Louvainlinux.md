@@ -1,6 +1,6 @@
 ---
 title: Louvain-li-nux
-onFrontPage: true
+onFrontPage: false
 ---
 
 En quelques mots, le Louvain-li-Nux est un kot-à-projet qui a pour projet de défendre et de promouvoir les valeurs du logiciel libre à travers la communauté estudiantine, citadine et académique de Louvain-la-Neuve. Pour ce faire, nous organisons de nombreuses activités permettant aux participants de se rencontrer et d'échanger autour de l'informatique, tout en découvrant une pléthore d'outils libres et, bien souvent, gratuits.

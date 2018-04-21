@@ -1,6 +1,6 @@
 ---
 title: Éclairage automatisé
-onFrontPage: true
+onFrontPage: false
 ---
 
 Il y a pour le moment 3 éclairages automatisés automatisés dans la maison. Dans l’ordre, du plus simple au plus compliqué : l’éclairage extérieur, l’éclairage du garage et l’éclairage dans ma chambre.

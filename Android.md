@@ -1,6 +1,6 @@
 ---
 title: Cours en élève libre
-onFrontPage: true
+onFrontPage: false
 ---
 
 J’ai participé au cours de LFSAB1509 à l’UCL en tant qu’élève libre. Le but du cours est de nous apprendre à développer selon le concept agile par la pratique; en écrivant une application Android de notre choix.

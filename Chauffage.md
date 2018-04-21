@@ -1,6 +1,6 @@
 ---
 title: Chauffage
-onFrontPage: true
+onFrontPage: false
 ---
 
 Nous nous sommes installées dans une nouvelle maison il y 2 ans. Il y avait un système de chauffage par le sol contrôlé par un seul thermostat. Certaines pièces étaient toujours trop froides, d’autres toujours trop chaudes. On consommait beaucoup de mazout.

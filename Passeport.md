@@ -1,6 +1,6 @@
 ---
 title: Passeport
-onFrontPage: true
+onFrontPage: false
 ---
 
 Je participe à l’ASBL Passeport depuis 2013. Ça ressemble assez fort au scoutisme (même tranches d’âge, plusieurs sections, activités en plein air les week-ends et grand raid pendant l’été). Nous n’avons pas de prairie comme lieu de rdv pour toutes nos activités; nous nous déplaçons (en camionnette généralement) là où nous avons besoin d’aller. Quelques exemples d’activités : escalade en falaise, char à voile, marche, vélo, ski de fond, etc.
