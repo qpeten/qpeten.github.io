@@ -28,3 +28,7 @@ Divers jobs étudiants effectuées pendant l'année scolaire 2017-2018.
 Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudiants.
 
 Pour un total de 72h valorisables dans le portfolio.
+
+| Activité | Lieu | Date | h valorisées | h réelles | preuve |
+| --- | --- | --- | --- | --- | --- |
+| Cours en élève libre | UCL, LLN | Q1, 2016-2017 | 10 | 50 | Android.md |
