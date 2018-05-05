@@ -5,7 +5,7 @@ onFrontPage: true
 
 Jeune diplômé en informatique trilingue, je suis à la recherche d’un travail engageant, dans une entreprise dynamique et avec une bonne ambiance de travail.
 
-Il y a deux choses que j'aime beaucoup faire dans l'informatique; il s'agit du réseau et de la mise en place de service. Partir des besoins, ensuite rechercher et comparer les différentes solutions, installer et configurer la solution la plus adaptée.
+Il y a deux choses que j'aime beaucoup faire dans l'informatique; il s'agit du réseau et de la mise en place de services. Partir des besoins, ensuite rechercher et comparer les différentes solutions, installer et configurer la solution la plus adaptée.
 
 Ce qui me motive, c'est de croire en ce que je mets en place, ainsi que de partager cette motivation avec mes collègues. J’aime apprendre et découvrir de nouvelles choses.
 

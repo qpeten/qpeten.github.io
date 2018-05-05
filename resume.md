@@ -7,7 +7,7 @@ onFrontPage: true
 Cours de 4 crédits ECTS, 50h
 
 10h [Installation de chauffage](Chauffage.md)  
-Projet personnel. Difficile de compter les heures, mais certainement plus de 1000, étallées sur deux années et demi. (En incluant toute la recherche nécéssaire.)
+Projet personnel. Difficile de compter les heures, mais certainement plus de 1000, étalées sur deux années et demi. (En incluant toute la recherche nécéssaire.)
 
 10h [Éclairage automatisé](Eclairage.md)  
 Projet personnel réalisé au cours de 3-5 semaines. J'ai pu réutiliser une bonne partie de l'infrastructure software mis en place pour le chauffage.
@@ -20,3 +20,11 @@ La conférence durait 10h30 au total.
 
 10h [Passeport ASBL](Passeport.md)  
 Animateur, responsable de section et administrateur d'une ASBL organisant des acitivés pour jeunes pendant plus de 5 annnées.
+
+10h [Travail étudiant chez Randstad](Randstad.md)
+Divers jobs étudiants effectuées pendant l'année scolaire 2017-2018.
+
+2h [Journée Emploi Formation à l'EPHEC](JEF.md)
+Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudiants.
+
+Pour un total de 72h valorisables dans le portfolio.
