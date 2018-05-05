@@ -40,3 +40,4 @@ Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudi
 
 Pour un total de 72h valorisables dans le portfolio.
 
+Une preuve plus complète est généralement disponible sur chaque page spécifique.
