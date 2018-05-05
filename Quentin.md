@@ -12,3 +12,5 @@ Ce qui me motive, c'est de croire en ce que je mets en place, ainsi que de parta
 Le monde de l’open-source m’est connu; j’ai été membre du kot à projet Louvain-li-Nux; mon stage de fin d’études consiste à développer une application open-source. Par ailleurs, j’ai mis en place à la maison un système de domotique qui utilise de nombreux composants open-source.
 
 J'ai comme passion la domotique. Le chauffage, les ballons d'eau chaude ainsi ainsi que certaines lamps sont contrôlées sont ainsi contrôlées et automatisées. Le système est conçu pour être autant que possible transparent pour l'utilisateur, y compris en cas d'erreur.
+
+Voici [un lien]({{ "assets/cd.pdf" | absolute_path }}) vers mon cv.

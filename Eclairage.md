@@ -29,6 +29,6 @@ Pour la lumière du garage, je peux affirmer que cela fonctionne assez bien. Voi
 Voici une photo de l'arduino et de l'alimentation de PC qui contrôle la barre de led dans ma chambre. Ce montage a été fait en sachant qu'il serait temporaire (quelques mois avant que je ne quitte la maison). Merci de ne pas juger la propreté du câblage !
 ![Alim et arduino]({{ "assets/ecl-alim.JPG" | absolute_path }})
 
-Et voici deux photos montrant la barre de led ainsi que le résultat final. Les barres plus foncées horizontales et verticales sont dues au fait que les LEDs sont dimmés par PWM. C'est totatlement invisible à l'oeuil nu.
+Et voici deux photos montrant la barre de led ainsi que le résultat final. Les barres plus foncées horizontales et verticales sont dues au fait que les LEDs sont dimmés par PWM et que mon appareil photo ne prend pas l'image en une fois (rolling shutter.) C'est totatlement invisible à l'oeuil nu.
 ![Barre de led]({{ "assets/ecl-barreled.JPG" | absolute_path }})
 ![Résultat]({{ "assets/ecl-final.JPG" | absolute_path }})
