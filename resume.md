@@ -30,7 +30,7 @@ Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudi
 | Activité | Lieu | Date | h valorisées | h réelles | Preuve |
 | --- | --- | --- | --- | --- | --- |
 | [Cours en élève libre](Android.md) | UCL, LLN | Q1, 2016-2017 | 10 | 50 | [Repo]({{ "assets/lfsab1509-bitbucket.png"|absolute_path }}) |
-| [Installation de chauffage](Chauffage.md) | Maison | 2015-2018 | 10 | >1000 | [RPi chaudiere]({{ "/assets/chauffage-chaudiere.JPG" }}) |
+| [Installation de chauffage](Chauffage.md) | Maison | 2015-2018 | 10 | >1000 | [RPi chaudiere](/assets/chauffage-chaudiere.JPG) |
 | [Éclairage automatisé](Eclairage.md) | Maison | février 2018 | 10 | 3-5 semaines | [Alim et arduino]({{ "assets/ecl-alim.JPG" | absolute_path }}) |
 | [Kot-à-projet Louvain-li-Nux](Louvainlinux.md) | LLN | 2015-2018 | 10 | 2 ans | [Lettre UCL]({{ "/assets/llnux-lettreucl.png" | absolute_path }}) |
 | [OpenBelgium](OpenBelgium.md) | LLN | 12/03/2018 | 10 | 10h30 | [Ticket OpenBelgium]({{ "/assets/TicketOpenBelgium.pdf" | absolute_url }}) |
