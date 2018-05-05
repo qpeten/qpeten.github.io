@@ -13,4 +13,4 @@ Le monde de l’open-source m’est connu; j’ai été membre du kot à projet 
 
 J'ai comme passion la domotique. Le chauffage, les ballons d'eau chaude ainsi ainsi que certaines lamps sont contrôlées sont ainsi contrôlées et automatisées. Le système est conçu pour être autant que possible transparent pour l'utilisateur, y compris en cas d'erreur.
 
-Voici [un lien]({{ "assets/cd.pdf" | absolute_path }}) vers mon cv.
+Voici [un lien]({{ "assets/cv.pdf" | absolute_path }}) vers mon cv.
