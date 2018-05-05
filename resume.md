@@ -34,7 +34,7 @@ Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudi
 | [Éclairage automatisé](Eclairage.md) | Maison | février 2018 | 10 | 3-5 semaines | [Alim et arduino](assets/ecl-alim.JPG) |
 | [Kot-à-projet Louvain-li-Nux](Louvainlinux.md) | LLN | 2015-2018 | 10 | 2 ans | [Lettre UCL](/assets/llnux-lettreucl.png) |
 | [OpenBelgium](OpenBelgium.md) | LLN | 12/03/2018 | 10 | 10h30 | [Ticket OpenBelgium](/assets/TicketOpenBelgium.pdf) |
-| [Passeport ASBL](Passeport.md) | Belgique | 2013 - … | 10 | >5 ans | [Membres effectifs de Passeport](http://garcons.passeportasbl.be/presentation/membres-effectifs/) |
+| [Passeport ASBL](Passeport.md) | Bruxelles | 2013 - … | 10 | >5 ans | [Membres effectifs de Passeport](http://garcons.passeportasbl.be/presentation/membres-effectifs/) |
 | [Travail étudiant](Randstad.md) | Belgique | 6 derniers mois | 10 | ~80 | [Fiche salaire](/assets/randstad.png) |
 | [Journée Emploi Formation](JEF.md) | EPHEC | 24/04/2018 | 2 | 2 | Photos de Mme Vroman |
 
