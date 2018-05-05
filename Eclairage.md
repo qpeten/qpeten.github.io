@@ -18,8 +18,6 @@ Pour arriver à cela, j’utilise beaucoup d’inputs. Il y a tout d’abord deu
 
 <!--more-->
 ## Preuves
-D’après les chiffres, cela fonctionne assez bien. Voir graphique @@@.
-Je n'ai pas de chiffres pour l'éclairage extérieur.
 Voici une photo de la Raspberry Pi (en F1) et des relais (en bas, en vert. 2 pour les lumières garage & parking, et deux autres pour contrôler les balons d'eau chaude. Ne pas tenir compte de l'inscription manuscrite, nous avons retiré un des boilers.)
 ![RPi garage]({{ "assets/ecl-garage.JPG" | absolute_path }})
 

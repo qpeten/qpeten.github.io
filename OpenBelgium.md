@@ -13,4 +13,4 @@ J’ai aussi pu conclure, pour avoir déjà cherché ce genre de choses par moi-
 
 <!--more-->
 ## Preuve
-![Ticker OpenBelgium]({{ "/assets/TicketOpenBelgium.pdf" | absolute_url }})
+![Ticket OpenBelgium]({{ "/assets/TicketOpenBelgium.pdf" | absolute_url }})
