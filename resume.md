@@ -22,10 +22,10 @@ La conférence durait 10h30 au total.
 Animateur, responsable de section et administrateur d'une ASBL organisant des acitivés pour jeunes pendant plus de 5 annnées.
 
 10h [Travail étudiant chez Randstad](Randstad.md)
-Divers jobs étudiants effectuées pendant l'année scolaire 2017-2018.
+Divers jobs étudiants effectués pendant l'année scolaire 2017-2018.
 
 2h [Journée Emploi Formation à l'EPHEC](JEF.md)
-Journée ou diverses entreprises viennent à l'EPHEC afin de recruter des étudiants.
+Journée au cours de laquelle diverses entreprises viennent à l'EPHEC afin de recruter des étudiants.
 
 | Activité | Lieu | Date | h valorisées | h réelles | Preuve |
 | --- | --- | --- | --- | --- | --- |

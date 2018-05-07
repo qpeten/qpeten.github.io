@@ -3,7 +3,7 @@ title: Chauffage
 onFrontPage: false
 ---
 
-Nous nous sommes installées dans une nouvelle maison il y 2 ans. Il y avait un système de chauffage par le sol contrôlé par un seul thermostat. Certaines pièces étaient toujours trop froides, d’autres toujours trop chaudes. On consommait beaucoup de mazout.
+Nous nous sommes installés dans une nouvelle maison il y 2 ans. Il y avait un système de chauffage par le sol contrôlé par un seul thermostat. Certaines pièces étaient toujours trop froides, d’autres toujours trop chaudes. La consommation de mazout était élevée.
 
 J’ai mis en place une régulation pièce par pièce du chauffage, en contrôlant les électrovannes sur chaque circuit de chauffage, les différentes pompes de circulation, ainsi que la température de l’eau de chauffage (via une vanne 3 voies et le contrôle de la chaudière).
 
