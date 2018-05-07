@@ -7,7 +7,7 @@ onFrontPage: true
 Cours de 4 crédits ECTS, 50h
 
 10h [Installation de chauffage](Chauffage.md)  
-Projet personnel. Difficile de compter les heures, mais certainement plus de 1000, étalées sur deux années et demi. (En incluant toute la recherche nécéssaire.)
+Projet personnel. Il est difficile de compter les heures, mais certainement plus de 1000, étalées sur deux années et demi (en incluant toute la recherche nécéssaire.)
 
 10h [Éclairage automatisé](Eclairage.md)  
 Projet personnel réalisé au cours de 3-5 semaines. J'ai pu réutiliser une bonne partie de l'infrastructure software mis en place pour le chauffage.
