@@ -8,7 +8,7 @@ Pour les raids, nous partons en camionnette dans un pays d’Europe (au sens lar
 
 J’ai personnellement organisé beaucoup d’activités, trois raids et participé à beaucoup d’autres encore. J’ai été chef de staff dans deux sections différentes pendant 3 ans en tout. Cela fait deux années que je suis administrateur de l’ASBL.
 
-Cela m’a fait apprendre la débrouillardise, l’organisation, comment gérer et motiver une équipe de jeunes et d’accompagnateurs. Étant administrateur, j’ai pu voir le fonctionnement d’une ASBL (et un peu du Moniteur Belge…)
+J'ai appris la débrouillardise, l’organisation, et la gestion et motivation d'une équipe de jeunes et d’accompagnateurs. En outre, étant administrateur, j’ai pu comprendre le fonctionnement d’une ASBL (et un peu du Moniteur Belge…)
 
 <!--more-->
 ## Preuve
