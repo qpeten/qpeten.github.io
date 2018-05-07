@@ -27,7 +27,7 @@ Divers jobs étudiants effectués pendant l'année scolaire 2017-2018.
 2h [Journée Emploi Formation à l'EPHEC](JEF.md)
 Journée au cours de laquelle diverses entreprises viennent à l'EPHEC afin de recruter des étudiants.
 
-| Activité | Lieu | Date | h valorisées | h réelles | Preuve |
+| Descr de l'activité | Lieu | Date | h valorisées | h réelles | Preuve |
 | --- | --- | --- | --- | --- | --- |
 | [Cours en élève libre](Android.md) | UCL, LLN | Q1, 2016-2017 | 10 | 50 | [Repo](/assets/lfsab1509-bitbucket.png) |
 | [Installation de chauffage](Chauffage.md) | Maison | 2015-2018 | 10 | >1000 | [RPi chaudiere](/assets/chauffage-chaudiere.JPG) |
