@@ -3,7 +3,7 @@ title: Travail étudiant chez Randstad
 onFrontPage: false
 ---
 
-Etant donné que je suis rentré assez tôt de mon Erasmus (le 15 décembre), j'étais disponible pendant le blocus. J'ai donc profité de l'occasion pour chercher des jobs étudiants, en sachant que la plupart des étudiants seraient indisponible car en train d'étudier.
+Etant donné que je suis rentré assez tôt de mon Erasmus (le 15 décembre), j'étais disponible pendant le blocus. J'ai donc profité de l'occasion pour chercher des jobs étudiants, en profitant du fait que la plupart des étudiants étaient indisponible car en train d'étudier.
 
 Travailler pour Randstad pendant la période de blocus est assez intéressant, car plutôt que de travailler tout le temps au même endroit, j'étais appelé en renfort en cas de demande exceptionnelle. Cela a fait que j'ai eu l'occasion de travailler peu mais à beaucoup d'endroits différents.
 
